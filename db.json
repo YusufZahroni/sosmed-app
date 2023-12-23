@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "username": "joko",
+      "email": "joko123@gmail.com",
+      "password": "Joko123@",
+      "id": 1
+    },
+    {
+      "username": "jamal",
+      "email": "jamal123@gmail.com",
+      "password": "Jamal123@",
+      "id": 2
+    },
+    {
+      "username": "budi",
+      "email": "budi123@gmail.com",
+      "password": "Budi123@",
+      "id": 3
+    },
+    {
+      "username": "andi",
+      "email": "andi123@gmail.com",
+      "password": "Andi123@",
+      "id": 4
+    },
+    {
+      "username": "Mamat",
+      "email": "mamat123@gmail.com",
+      "password": "Mamat123@",
+      "id": 5
+    },
+    {
+      "username": "Natalia",
+      "email": "natalia123@gmail.com",
+      "password": "Natalia123@",
+      "id": 6
+    },
+    {
+      "username": "Obama",
+      "email": "obama123@gamil.com",
+      "password": "Obama123@",
+      "id": 7
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "Info Info Info ....!",
+      "userId": 5,
+      "createdAt": "2023-12-22T17:24:17.880Z",
+      "id": 1
+    },
+    {
+      "tweet": "Testing Doang Nih\n\n",
+      "userId": 6,
+      "createdAt": "2023-12-22T17:45:42.442Z",
+      "id": 2
+    },
+    {
+      "tweet": "Hi\n",
+      "userId": 7,
+      "createdAt": "2023-12-23T14:48:36.321Z",
+      "id": 3
+    }
+  ]
+}
